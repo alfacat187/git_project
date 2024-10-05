@@ -28,12 +28,6 @@
 /* ======= Default styles ======= */
 
 html,
-body {
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
-    -moz-font-smoothing: antialiased;
-    font-smoothing: antialiased;
-}
 
 body {
     font-family: "Manrope", sans-serif;
